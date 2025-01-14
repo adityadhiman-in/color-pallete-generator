@@ -2,6 +2,8 @@
 
 A simple and fun project to generate random color palettes using **HTML**, **CSS**, and **JavaScript**. This beginner-friendly project helps you practice **DOM manipulation**, **JavaScript event handling**, and basic **UI design**.  
 
+![image](https://github.com/user-attachments/assets/5f8a183d-59e7-43a6-b7ff-de6e1d7e8e5f)
+
 ---
 
 ## Features  
